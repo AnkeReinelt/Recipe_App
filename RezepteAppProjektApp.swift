@@ -6,12 +6,14 @@
 //
 
 import SwiftUI
-
 @main
 struct RezepteAppProjektApp: App {
+ 
+    
+  
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartView()
         }
     }
 }
